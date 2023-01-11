@@ -2,8 +2,10 @@
 ## 简介
 Anacoonda实质上是一个涵盖python库的软件包，自带conda包管理系统与环境管理系统
 <a name="dLdWo"></a>
+
 ## Anaconda环境
 <a name="coSQJ"></a>
+
 ### 环境创建
 一.利用原生的Navigator创建<br />![Snipaste_2023-01-10_19-14-02.png](https://cdn.nlark.com/yuque/0/2023/png/34325414/1673349273064-83852d64-5a42-42bb-be98-fdfe8341cd97.png#averageHue=%23f3f3f2&clientId=uf31cfbbe-b2c2-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=393&id=ua6a87dab&margin=%5Bobject%20Object%5D&name=Snipaste_2023-01-10_19-14-02.png&originHeight=657&originWidth=1095&originalType=binary&ratio=1&rotation=0&showTitle=false&size=104619&status=done&style=none&taskId=uc5c62490-9e0f-44e8-a51d-e8eae55f738&title=&width=654.5177001953125)<br />二.利用Anaconda命令行创建
 ```powershell
@@ -40,6 +42,4 @@ conda config --remove-key channels
 <a name="bHjai"></a>
 ## Pycharm里Anaconda的配置
 一.创建项目，勾选先前配置的解释器<br />![Snipaste_2023-01-10_18-55-52.png](https://cdn.nlark.com/yuque/0/2023/png/34325414/1673348162475-9d94786e-ce1a-4be4-96c4-52302707e5c2.png#averageHue=%233c3f41&clientId=uf31cfbbe-b2c2-4&crop=0&crop=0&crop=1&crop=1&from=ui&height=301&id=u4dbc2d7e&margin=%5Bobject%20Object%5D&name=Snipaste_2023-01-10_18-55-52.png&originHeight=552&originWidth=781&originalType=binary&ratio=1&rotation=0&showTitle=false&size=23309&status=done&style=none&taskId=ue1875250-1bda-45f4-bece-1cf05b5509d&title=&width=426.1725769042969)<br />二.选择添加解释器，添加python解释器即可
-
-
 
